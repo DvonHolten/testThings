@@ -147,6 +147,8 @@ class SalesProductTest {
 
     /**
      * Method under test: {@link SalesProduct#setUnStoffNr(String)}
+     *
+     *
      */
     @Test
     @DisplayName("simple test with valid UNStoffNr '1202' : OK")
